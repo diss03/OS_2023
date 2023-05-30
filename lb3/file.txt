@@ -1,0 +1,7 @@
+  UID   GID  RUID   PID  PPID  PGID TT          VSZ STAT COMMAND
+    0     0  1000   134   133   134 pts/1      8916 Ss   sudo ./a.out
+    0     0     0   135   134   135 pts/1      2640 SL+  ./a.out
+    0     0     0   136   135   135 pts/1      2772 SL+  son 3 4
+    0     0     0   137   135   135 pts/1      2772 SL+  son 3 4
+    0     0     0   138   135   135 pts/1      2888 S+   sh -c ps -o uid,gid,ruid,pid,ppid,pgid,tty,vsz,stat,command>file.txt
+    0     0     0   139   138   135 pts/1      7480 R+   ps -o uid,gid,ruid,pid,ppid,pgid,tty,vsz,stat,command

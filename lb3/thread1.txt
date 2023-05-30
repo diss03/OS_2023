@@ -1,0 +1,7 @@
+    1 ?        Sl     0:00 /init
+ 5484 ?        Ss     0:00 /init
+ 5485 ?        S      0:00  \_ /init
+ 5486 pts/0    Ss     0:00      \_ -bash
+ 5598 pts/0    Sl+    0:00          \_ ./a.out
+ 5617 pts/0    S+     0:00              \_ sh -c ps axhf > thread1.txt
+ 5618 pts/0    R+     0:00                  \_ ps axhf

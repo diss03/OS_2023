@@ -1,0 +1,43 @@
+New directory have been created:
+STAT RES:
+4.0K	test_dir
+test_file1.txt have been created:
+4.1K	test_dir
+test_file2.txt have been created:
+4.1K	test_dir
+test_file3.txt have been created:
+4.1K	test_dir
+test_file4.txt have been created:
+4.2K	test_dir
+test_file5.txt have been created:
+4.2K	test_dir
+test_file6.txt have been created:
+4.2K	test_dir
+test_file7.txt have been created:
+4.2K	test_dir
+test_file8.txt have been created:
+4.3K	test_dir
+test_file9.txt have been created:
+4.3K	test_dir
+test_files have been delited:
+4.0K	test_dir
+Subdir test_subdir1 have been created:
+8.0K	test_dir
+Subdir test_subdir2 have been created:
+12K	test_dir
+Subdir test_subdir3 have been created:
+16K	test_dir
+Subdir test_subdir4 have been created:
+20K	test_dir
+Subdir test_subdir5 have been created:
+24K	test_dir
+Subdir test_subdir6 have been created:
+28K	test_dir
+Subdir test_subdir7 have been created:
+32K	test_dir
+Subdir test_subdir8 have been created:
+36K	test_dir
+Subdir test_subdir9 have been created:
+40K	test_dir
+Subdir test_subdir have been delited:
+4.0K	test_dir
